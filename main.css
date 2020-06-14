@@ -1,0 +1,21 @@
+body {
+    background-color: brown;
+}
+
+p {
+    color: rgb(223, 223, 240);
+}
+
+img {
+    position: absolute;
+    top: 200px;
+    left: 300px;
+    border-width: 10px;
+    border-color: black;
+    border-style: solid;
+}
+p {
+    position: absolute;
+    top:150px;
+    left:270px;
+}
