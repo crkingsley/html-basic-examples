@@ -28,3 +28,13 @@ caption {
     border-style: solid;
 
 }
+a {
+    color: green;
+}
+a:visited {
+    color: purple;
+}
+a:hover {
+    color: orangered;
+}
+
